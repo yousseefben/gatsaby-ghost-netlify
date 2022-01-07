@@ -1,0 +1,5 @@
+# Netlify redirects file, edit with your domain
+# https://www.netlify.com/docs/redirects/
+
+#https://curiousmate.com/*      https://curiousmate.com/:splat    301!
+#http://curiousmate.com/*       https://curiousmate.com/:splat    301!
